@@ -2,6 +2,7 @@ streamlit
 google-generativeai
 python-dotenv
 langchain
+pdfmerge
 PyPDF2
 chromadb
 faiss-cpu
